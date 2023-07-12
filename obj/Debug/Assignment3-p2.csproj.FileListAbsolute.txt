@@ -1,0 +1,8 @@
+D:\Mphasis\.net\Day3\Assignment3-p2\Assignment3-p2\bin\Debug\Assignment3-p2.exe.config
+D:\Mphasis\.net\Day3\Assignment3-p2\Assignment3-p2\bin\Debug\Assignment3-p2.exe
+D:\Mphasis\.net\Day3\Assignment3-p2\Assignment3-p2\bin\Debug\Assignment3-p2.pdb
+D:\Mphasis\.net\Day3\Assignment3-p2\Assignment3-p2\obj\Debug\Assignment3-p2.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Day3\Assignment3-p2\Assignment3-p2\obj\Debug\Assignment3-p2.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Day3\Assignment3-p2\Assignment3-p2\obj\Debug\Assignment3-p2.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Day3\Assignment3-p2\Assignment3-p2\obj\Debug\Assignment3-p2.exe
+D:\Mphasis\.net\Day3\Assignment3-p2\Assignment3-p2\obj\Debug\Assignment3-p2.pdb
